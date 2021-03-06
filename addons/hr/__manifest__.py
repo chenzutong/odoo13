@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Employees',
+    'name': 'test_app',
     'version': '1.1',
     'category': 'Human Resources/Employees',
     'sequence': 75,
@@ -36,7 +36,7 @@
         'views/hr_department_views.xml',
         'views/hr_views.xml',
         'views/hr_templates.xml',
-        'views/res_config_settings_views.xml',
+        # 'views/res_config_settings_views.xml',
         'views/mail_channel_views.xml',
         'views/res_users.xml',
         'data/hr_data.xml',
